@@ -1,4 +1,4 @@
-# Hi, I'm <Khaled>! 👋
+# Hi, I'm Khaled! 👋
 
 I am a passionate CS student at HTI, driven by a curiosity for technology and a love for coding. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
