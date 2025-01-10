@@ -1,6 +1,6 @@
 # Hi, I'm Khaled! 👋
 
-I am a cat person, driven by a curiosity to explore the world of web development and technology. My journey involves delving into computer science, discovering new ideas, and sharing my insights with the community.
+I am a Backend cat person, driven by a curiosity to explore the world of web development and technology. My journey involves delving into computer science, discovering new ideas, and sharing my insights with the community.
 
 ![Khaled-Amr-1's Stats](https://github-readme-stats.vercel.app/api?username=Khaled-Amr-1&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
