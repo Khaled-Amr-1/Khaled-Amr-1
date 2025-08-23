@@ -6,23 +6,18 @@
 
 ### A Backend Engineer exploring and building simple solutions for Hard problems.
 
-- 🌱 I’m currently learning **[System Design](https://roadmap.sh/system-design)**
-- 💬 Ask me about **Java, Node.js, React...or anything [here](https://github.com/ChijiokeOkorji/ChijiokeOkorji/issues)**
-
+- 🌱 I’m currently learning **NestJS, Prisma**
 <br>
 
 <div align="center">
-  <a href="mailto:chijiokeokorji@gmail.com">
+  <a href="mailto:khaledamr520@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/chijiokeokorji" target="_blank">
+  <a href="https://linkedin.com/in/khaled-1-amr" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://medium.com/@chijiokeokorji" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" target="_blank" />
+    
   </a>
-  <a href="https://codepen.io/chijiokeokorji" target="_blank">
-    <img src="https://img.shields.io/badge/CodePen-1e1f26?style=for-the-badge&logo=codepen&logoColor=white" target="_blank" />
   </a>
 </div>
 
@@ -63,11 +58,4 @@
 
 <hr>
 
-## 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [From Meh to Marvelous: The Ultimate Guide to Crafting a Killer GitHub Profile](https://medium.com/@chijiokeokorji/from-meh-to-marvelous-the-ultimate-guide-to-crafting-a-killer-github-profile-8dd3f6c6d602?source=rss-eafa38bd25b9------2)
-- [Cracking the Code: How Hashing Protects Your Online Logins](https://medium.com/@chijiokeokorji/cracking-the-code-how-hashing-protects-your-online-logins-b0452c4567de?source=rss-eafa38bd25b9------2)
-- [The Digital Renaissance Symphony: A Chorus of Generalists and Specialists](https://medium.com/@chijiokeokorji/the-digital-renaissance-symphony-a-chorus-of-generalists-and-specialists-2d4852155f26?source=rss-eafa38bd25b9------2)
-- [How Artificial Intelligence is Ushering in a New Renaissance Era](https://medium.com/@chijiokeokorji/how-artificial-intelligence-is-ushering-in-a-new-renaissance-era-5fec39db90ea?source=rss-eafa38bd25b9------2)
-- [Finding Light in the Darkness: Overcoming Burnout and Rediscovering Fulfillment](https://medium.com/@chijiokeokorji/finding-light-in-the-darkness-overcoming-burnout-and-rediscovering-fulfillment-87f96d3d79e8?source=rss-eafa38bd25b9------2)
-<!-- BLOG-POST-LIST:END -->
+
