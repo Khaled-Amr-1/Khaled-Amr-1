@@ -28,8 +28,8 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,nestjs,postgres,prisma" />
-  <img src="https://skillicons.dev/icons?i=jest,docker,redis,sentry,git,postman" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,nestjs,postgres,prisma" /><br>
+  <img src="https://skillicons.dev/icons?i=jest,docker,redis,sentry,githubactions" />
 </p>
 
 <hr>
