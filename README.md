@@ -1,7 +1,7 @@
 <img src="https://github.com/Khaled-Amr-1/Khaled-Amr-1/blob/main/banner.png" alt="Banner">
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!;+I'm+Khaled+Amr;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=000080&duration=4000&lines=Hi+There!;+I'm+Khaled+Amr;" />
 </h1>
 
 ### A Backend Engineer exploring and building simple solutions for Hard problems.
