@@ -1,9 +1,4 @@
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ChijiokeOkorji&style=for-the-badge" alt="Profile Views Badge"/>
-</div>
-<br>
-
-<img src="[[https://github.com/ChijiokeOkorji/ChijiokeOkorji/blob/main/software-developer.png](https://github.com/Khaled-Amr-1/Khaled-Amr-1/blob/main/Blue%20and%20White%20Abstract%20Technology%20LinkedIn%20Banner.png)](https://github.com/Khaled-Amr-1/Khaled-Amr-1/blob/main/Blue%20and%20White%20Abstract%20Technology%20LinkedIn%Banner.png)" alt="Banner of a developer sitting in front of a desk">
+<img src="https://github.com/Khaled-Amr-1/Khaled-Amr-1/blob/main/banner.png" alt="Banner">
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Chijioke+Okorji!;" />
