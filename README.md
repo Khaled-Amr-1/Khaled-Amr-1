@@ -1,5 +1,4 @@
-[<img src="https://github.com/Khaled-Amr-1/Khaled-Amr-1/blob/main/banner.png" alt="Banner">
-](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDU3NXU4azQwbDdhYnV4dXAzcno1ZHc3bGl0bmNiMmRhdjM2MzZ2ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Bh3bnKwSi7xC9W5OG9/giphy.gif)
+<img src="[https://github.com/Khaled-Amr-1/Khaled-Amr-1/blob/main/banner.png](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDU3NXU4azQwbDdhYnV4dXAzcno1ZHc3bGl0bmNiMmRhdjM2MzZ2ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Bh3bnKwSi7xC9W5OG9/giphy.gif)" alt="Banner">
 
 
 ### A Backend Cat exploring and building simple solutions for Hard problems.
