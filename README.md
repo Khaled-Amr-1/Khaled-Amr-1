@@ -1,5 +1,6 @@
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDU3NXU4azQwbDdhYnV4dXAzcno1ZHc3bGl0bmNiMmRhdjM2MzZ2ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Bh3bnKwSi7xC9W5OG9/giphy.gif)" alt="Banner">
-
+<div style="text-align: center;">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzI2Z3lvc292MHU1bWpjOHJtc3Bsd25jeHdsN2o0cjZ5cmszam1pZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/88F9oFkKBsblZ4K40r/giphy.gif" alt="Banner">
+</div>
 
 ### A Backend Cat exploring and building simple solutions for Hard problems.
 
