@@ -1,12 +1,9 @@
-<img src="https://github.com/Khaled-Amr-1/Khaled-Amr-1/blob/main/banner.png" alt="Banner">
+[<img src="https://github.com/Khaled-Amr-1/Khaled-Amr-1/blob/main/banner.png" alt="Banner">
+](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDU3NXU4azQwbDdhYnV4dXAzcno1ZHc3bGl0bmNiMmRhdjM2MzZ2ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Bh3bnKwSi7xC9W5OG9/giphy.gif)
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=000080&duration=4000&lines=Hi+There!;+I'm+Khaled+Amr;" />
-</h1>
 
-### A Backend Engineer exploring and building simple solutions for Hard problems.
+### A Backend Cat exploring and building simple solutions for Hard problems.
 
-- 🌱 I’m currently learning **NestJS, Prisma**
 <br>
 
 <div align="center">
@@ -28,22 +25,9 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,nestjs,postgres,prisma" /><br>
-  <img src="https://skillicons.dev/icons?i=jest,docker,redis,sentry,githubactions" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,nestjs,postgres" /><br>
+  <img src="https://skillicons.dev/icons?i=jest,docker" />
 </p>
-
-<hr>
-
-## ⚡️ Stats
-
-<br>
-
-<div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Khaled-Amr-1&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Khaled-Amr-1's GitHub Stats" />
-    <br>
-  <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs?username=Khaled-Amr-1&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Khaled-Amr-1's Most Used Languages" />
-</div>
-
-<hr>
+</br>
 
 
