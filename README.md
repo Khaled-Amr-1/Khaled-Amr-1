@@ -1,31 +1,28 @@
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzI2Z3lvc292MHU1bWpjOHJtc3Bsd25jeHdsN2o0cjZ5cmszam1pZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/88F9oFkKBsblZ4K40r/giphy.gif" alt="Banner">
+### Meow! 🐾 I'm Gustavo. 
 
-### A Backend Cat exploring and building simple solutions for Hard problems.
+I'm a backend developer cat working hard to earn my daily tuna. I believe in shredding your backend problems with clean, sharp, and purr-fect solutions. 
+
+*(My human assistant, Khaled, just handles the typing while I do the heavy architectural thinking).*
 
 <br>
 
 <div align="center">
   <a href="mailto:khaledamr520@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Email Gustavo" />
   </a>
   <a href="https://linkedin.com/in/khaled-1-amr" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-    
-  </a>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
   </a>
 </div>
 
 <hr>
 
-## 🛠️ Languages and Tools
+## 🛠️ Languages, Tools & Scratching Posts
 
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,nestjs,postgres" /><br>
-  <img src="https://skillicons.dev/icons?i=jest,docker" />
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,express,nestjs,postgres" /><br>
+  <img src="https://skillicons.dev/icons?i=vitest,docker,supabase,linux" />
 </p>
-</br>
-
-
+<br>
