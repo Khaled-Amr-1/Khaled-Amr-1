@@ -1,7 +1,10 @@
-Hello there, it's Khaled Amr – the backend guy who looks for opportunities to learn new things and solve new problems. That's my recent stack:
+### Hello there, it's Khaled Amr – the backend guy
+looking for opportunities to learn new things and solve new problems.
+
+### That's my recent stack:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nodejs,express,nestjs,postgres,vitest,docker,supabase,linux" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,nestjs,postgres,vitest,docker,linux" />
 </p>
 
 <br>
