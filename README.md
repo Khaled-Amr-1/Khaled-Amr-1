@@ -14,7 +14,7 @@ Software Engineer &amp; Backend Developer designing scalable systems, automating
 
 🔭 &nbsp;I'm currently working on **Building robust backend architectures and creating APIs that help streamline web development.**  
 🌱 &nbsp;I'm currently learning **Deepening my expertise in C#/.NET Core and Entity Framework.**  
-👯 &nbsp;I'm looking to collaborate on **Innovative backend projects, framework-agnostic solutions, and tools that solve real-world problems.**  
+👯 &nbsp;I'm looking to collaborate on **Innovative backend projects, framework-agnostic solutions.**  
 💬 &nbsp;Ask me about **Node.js, TypeScript, relational databases, or your favorite philosophical paradoxes!**  
 
 ### 🛠️ Tech Stack
