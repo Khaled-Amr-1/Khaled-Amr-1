@@ -15,10 +15,7 @@ Software Engineer &amp; Backend Developer designing scalable systems, automating
 🔭 &nbsp;I'm currently working on **Building robust backend architectures and creating APIs that help streamline web development.**  
 🌱 &nbsp;I'm currently learning **Deepening my expertise in C#/.NET Core and Entity Framework.**  
 👯 &nbsp;I'm looking to collaborate on **Innovative backend projects, framework-agnostic solutions, and tools that solve real-world problems.**  
-🤔 &nbsp;I'm looking for help with **Advanced database optimization techniques and scaling complex software architecture.**  
 💬 &nbsp;Ask me about **Node.js, TypeScript, relational databases, or your favorite philosophical paradoxes!**  
-😄 &nbsp;Pronouns: **He/Him**  
-⚡ &nbsp;Fun fact: **When I'm not designing data layers, you can find me reading up on history, hitting the gym, or strategizing in a round of Mobile Legends.**
 
 ### 🛠️ Tech Stack
 
@@ -63,12 +60,6 @@ Software Engineer &amp; Backend Developer designing scalable systems, automating
 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Khaled-Amr-1&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
-</p>
-
-### 💭 Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
 </p>
 
 ---
